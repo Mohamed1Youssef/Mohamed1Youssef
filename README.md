@@ -6,6 +6,5 @@
 
 <br><br>
 
-<sub><code>system online · phosphor P1 · 60Hz</code></sub>
 ![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,docker,sqlite,git)
 </div>
