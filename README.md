@@ -6,5 +6,5 @@
 
 <br><br>
 
-![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,docker,sqlite,git)
+![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,fastapi,docker)
 </div>
